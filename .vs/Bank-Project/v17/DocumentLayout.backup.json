@@ -3,12 +3,19 @@
   "WorkspaceRootPath": "D:\\Bank-Management-System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EAE39FB3-A0C6-4803-B5F8-C71109976091}|Bank-Project\\Bank-Project.vcxproj|D:\\Bank-Management-System\\Bank-Project\\Bank-Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAE39FB3-A0C6-4803-B5F8-C71109976091}|Bank-Project\\Bank-Project.vcxproj|solutionrelative:Bank-Project\\Bank-Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Bank-Management-System\\Project 3 FindClient\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project 3 FindClient\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A4E1E47-61DF-4B8C-8E1B-A8315A66BF97}|Project 3 FindClient\\Project 3 FindClient.vcxproj|D:\\Bank-Management-System\\Project 3 FindClient\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5A4E1E47-61DF-4B8C-8E1B-A8315A66BF97}|Project 3 FindClient\\Project 3 FindClient.vcxproj|solutionrelative:Project 3 FindClient\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Bank-Management-System\\Project 3 FindClient\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project 3 FindClient\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +41,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank-Project.cpp",
+              "DocumentMoniker": "D:\\Bank-Management-System\\Bank-Project\\Bank-Project.cpp",
+              "RelativeDocumentMoniker": "Bank-Project\\Bank-Project.cpp",
+              "ToolTip": "D:\\Bank-Management-System\\Bank-Project\\Bank-Project.cpp",
+              "RelativeToolTip": "Bank-Project\\Bank-Project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T23:30:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAAgCAAAAAAAAAIAwwBkCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-15T23:30:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "clsLoginScreen.h",
               "DocumentMoniker": "D:\\Bank-Management-System\\Project 3 FindClient\\clsLoginScreen.h",
               "RelativeDocumentMoniker": "Project 3 FindClient\\clsLoginScreen.h",
@@ -42,21 +73,18 @@
               "RelativeToolTip": "Project 3 FindClient\\clsLoginScreen.h",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-15T22:02:42.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T22:02:42.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Users.txt",
               "DocumentMoniker": "D:\\Bank-Management-System\\Project 3 FindClient\\Users.txt",
               "RelativeDocumentMoniker": "Project 3 FindClient\\Users.txt",
               "ToolTip": "D:\\Bank-Management-System\\Project 3 FindClient\\Users.txt",
               "RelativeToolTip": "Project 3 FindClient\\Users.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-15T22:01:56.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T22:01:56.613Z"
             }
           ]
         }
