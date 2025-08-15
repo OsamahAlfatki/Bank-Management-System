@@ -1,0 +1,27 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.vcxproj.user
+*.pdb
+*.idb
+*.ipch
+
+# VS Code files
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Executables and Libraries
+*.exe
+*.dll
+*.lib
