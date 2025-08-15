@@ -26,7 +26,6 @@ This is a console-based application that provides essential banking operations s
    `bash
    git clone https://github.com/YourUsername/BankManagementSystem.git
    
-2.Default Login Credentails:
-  Username:User1
-  Password:1234
-   
+## 🔑 Default Login Credentials
+- **Username:** User1  
+- **Password:** 1234  
