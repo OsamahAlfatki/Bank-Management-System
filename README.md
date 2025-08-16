@@ -28,4 +28,6 @@ This is a console-based application that provides essential banking operations s
    
 ## 🔑 Default Login Credentials
 - **Username:** User1  
-- **Password:** 1234  
+- **Password:** 1234
+## 📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
